@@ -34,10 +34,10 @@ Figure Eight, a company focused on creating datasets for AI applications, has cr
 
 ### Experiment Design and Recommendations
 Learn to design experiments and analyze A/B test results. Explore approaches for building recommendation systems.
-#### Design a Recommendation Engine with IBM
+#### Project: Design a Recommendation Engine with IBM
 IBM has an online data science community where members can post tutorials, notebooks, articles, and datasets. In this project, you will build a recommendation engine based on user behavior and social network data, to surface content most likely to be relevant to a user. You’ll work with IBM Watson and IBM Cloud to build and deploy the recommendation to a frontend application.
 
 ### Data Science Projects
 Leverage what you’ve learned throughout the program to build your own open-ended Data Science project. This project will serve as a demonstration of your valuable abilities as a Data Scientist.
-#### Data Science Capstone Project
+#### Project: Data Science Capstone Project
 You will leverage what you’ve learned throughout the program to build your own data science project. You will define the problem, identify and explore the data, perform your analyses, and present your solution in a blog post or frontend application. This project will serve as a demonstration of your ability as a Data Scientist, and will be an important piece of your job-ready portfolio.
